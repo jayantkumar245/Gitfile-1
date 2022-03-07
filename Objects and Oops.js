@@ -42,4 +42,5 @@ const studentDetails = [
 ];
 // q01
 // Print the name and total marks of each student.
-studentDetails.map((item=>item.name=console.log(item)))
+studentDetails.map((item=>item.name=console.log(item))
+         
