@@ -68,7 +68,7 @@ console.log(`${loss} Loss`);
 // 10.Write a JavaScript program that reverses a number.
 // let num=456789;
 // reverse=num.toString().split("").reverse().join("")
-// console.log(reverse)
+// console.log(reverse); 
 
 // program to convert decimal to binary
 const number = parseInt(prompt("Enter a decimal number: "));

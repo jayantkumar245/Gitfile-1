@@ -1,20 +1,23 @@
 // 1. Write a program that converts the string into uppercase
-
 let str = "we are the batch from fsd21e";
 let result = str.toUpperCase();
 console.log(result);
+
 //  .Write a program that reads two strings and append first string to the second. So if first string is Good second string is Morning , the program should print MorningGood
 let str1 = "Good";
 let str2 = "Morning";
 let str3 = str1 + " " + str2;
 console.log(str3);
+
 // 3.Program that reads string and count number of characters present in the string
 let string = "we are full-stack developer";
 let res = string.length;
 console.log(res);
+
 // 4.Write a program that converts string like "124" to 124
 let str4 = "124";
 console.log(Number(str4));
+
 // 5.Write a program to delete all vowels from a string. Assume string is not more than 80 characters long
 function removevowel(str) {
   var strArr = str.split("");
@@ -46,9 +49,7 @@ console.log(res2);
 
 //   6. Write a program to check whether the string is alphanumeric or not , eg:batman@45 contains digit 45
 function isAlphaNumeric(str) {
-  var code, i, len;
-
-  for (i = 0, len = str.length; i < len; i++) {
+  for (i = 0; i < str.length; i++) {
     code = str.charCodeAt(i);
     if (
       !(code > 47 && code < 58) &&
@@ -56,11 +57,9 @@ function isAlphaNumeric(str) {
       !(code > 96 && code < 123)
     ) {
       console.log(`is not alphanumeric`);
-      return false;
     }
   }
   console.log(`is alphanumeric`);
-  return true;
 }
 isAlphaNumeric("batman@45");
 
@@ -68,9 +67,9 @@ isAlphaNumeric("batman@45");
 let str5="Hello";
 let str6="Hello World";
 let str7="We are Full-stack Developer";
-if (str5.length>=str6.length && str5.length >=str7.length){
+if (str5.length>=str6.length && str7.length){
     console.log(str5)
-}else if(str6.length>=str5.length && str6.length >=str7.length){
+}else if(str6.length>=str5.length && str7.length){
     console.log(str6)
 }else{
     console.log(str7)
