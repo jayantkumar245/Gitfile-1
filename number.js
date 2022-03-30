@@ -72,5 +72,7 @@ console.log(`${loss} Loss`);
 
 // program to convert decimal to binary
 const number = parseInt(prompt("Enter a decimal number: "));
-const result1 = number.toString(2);
+const result1 = number.toString(2);  //this convert decimal to binary
+const result2 = number.toString(16);  //this convert decimal to hexadecimal
+const result3 = number.toString(8);  //this convert decimal to octal
 console.log("Binary:" + " " + result1);
