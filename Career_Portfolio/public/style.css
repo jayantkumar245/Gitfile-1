@@ -1,0 +1,13 @@
+.home{
+    background-color: aqua;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+.project{
+    background-color: chartreuse;
+}
+.home ul li{
+    list-style-type: none;
+}
