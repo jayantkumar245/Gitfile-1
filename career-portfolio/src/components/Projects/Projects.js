@@ -18,7 +18,7 @@ export default function Projects() {
           </div>
           <h3>Todo List Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-1-Todo-list-.git" className="btn" target="_blank">
               Github
             </a>
             <a
@@ -36,7 +36,7 @@ export default function Projects() {
           </div>
           <h3>Expense tracker Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-3-Expense-Tracker.git" className="btn" target="_blank">
               Github
             </a>
             <a
@@ -54,7 +54,7 @@ export default function Projects() {
           </div>
           <h3>MyNote Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-2-Note-App-.git" className="btn" target="_blank">
               Github
             </a>
             <a
@@ -70,9 +70,9 @@ export default function Projects() {
           <div className="portfolio_item_image">
             <img src={IMG4} alt="portfolio1" />
           </div>
-          <h3>Vowel Conter Project</h3>
+          <h3>Vowel Counter Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-4-vowel-counter.git" className="btn" target="_blank">
               Github
             </a>
             <a
@@ -90,7 +90,7 @@ export default function Projects() {
           </div>
           <h3>Memory Game Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-5-Memory-game.git" className="btn" target="_blank">
               Github
             </a>
             <a
