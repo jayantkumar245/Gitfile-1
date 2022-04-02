@@ -108,7 +108,7 @@ export default function Projects() {
           </div>
           <h3>Music App Project</h3>
           <div className="portfolio_item_cta">
-            <a href="http//:www.github.com" className="btn" target="_blank">
+            <a href="https://github.com/jayantkumar245/Project-6-Music-app-using-React.git" className="btn" target="_blank">
               Github
             </a>
             <a
