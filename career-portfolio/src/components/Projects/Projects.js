@@ -25,7 +25,7 @@ export default function Projects() {
               href="http//:www.github.com"
               className="btn btn-primary"
               target="_blank"
-            >
+            >   
               Live Demo
             </a>
           </div>
