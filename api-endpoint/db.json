@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "first_name": "Josephine",
+      "last_name": "Darakjy",
+      "company_name": "Chanay, Jeffrey A Esq",
+      "city": "Brighton",
+      "state": "MI",
+      "zip": 48116,
+      "email": "josephine_darakjy@darakjy.org",
+      "web": "http://www.chanayjeffreyaesq.com",
+      "age": 48
+    },
+    {
+      "first_name": "jayant",
+      "last_name": "kumar",
+      "company_name": "skillsafari",
+      "city": "patna",
+      "state": "Bihar",
+      "zip": "800013",
+      "email": "admin@gamil.com",
+      "web": "www.newwebsie.com",
+      "age": "26",
+      "id": 3
+    }
+  ]
+}
